@@ -1,0 +1,26 @@
+replication is a recurring question
+how can I make it redundant?
+failover?
+it all depends on your data
+master slave covers most cases
+ 
+features backends with custom logos
+ 
+start: basic value prop
+list use cases?
+ 
+who's using it in production, and why/how? which modules?
+ 
+how to spin up a server
+ 
+stuff noone else can do
+ 
+frontend with multilevel
+ 
+databases built on top of levelup
+ 
+baseup
+ 
+focus on how the modular architecture lets us do things that other's just can't, or with sooo much work.
+ 
+the node concept applied to databases
